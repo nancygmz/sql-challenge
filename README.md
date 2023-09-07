@@ -5,7 +5,8 @@ For this project, you’ll design the tables to hold the data from the CSV files
 ## Reviewing & Organizing the Data
 In reviewing the CVS files provided, I've put together an Entity Relationship Diagram to illustrate the different files and to assist with my queries. 
 
-![ERD image](https://github.com)
+![ERD image](https://github.com/nancygmz/sql-challenge/blob/main/Screenshot%202023-09-07%20142404.png)
+
 
 
 ## Data Analysis
